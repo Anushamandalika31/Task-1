@@ -1,11 +1,17 @@
 #  Java Programming – JAVA PROGRAM TO READ,WRITE, AND MODIFY TEXT FILES  
 
-**COMPANY**: CODTECH IT SOLUTIONS  
+**COMPANY**: CODTECH IT SOLUTIONS 
+
 **NAME**:  M.Lalitha Anusha
+
 **INTERN ID**: CT04DY1887  
+
 **DOMAIN**:  Java Programming
+
 **DURATION**: 4 WEEKS  
+
 **MENTOR**: NEELA SANTOSH  
+
 # Project Overview
 
 This project is a **Java-based file operations program** that demonstrates reading, writing, and modifying text files. The program provides a **practical example** of handling file I/O in Java, showcasing how to manipulate text data efficiently.
